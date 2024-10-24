@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseAuthApp</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="continue_text">Continue</string>
+    <string name="signup_prompt">Don\'t have an account? Create here</string>
+    <string name="login_prompt">Already have an account? Login here</string>
+</resources>
